@@ -4,6 +4,7 @@
     'name': 'Stock by purchase order',
     'version': '11.0',
     'category': 'Purchase',
+    'author': 'Rguibi',
     'sequence': 95,
     'summary': 'Available stock by purchase order',
     'description': """
@@ -28,4 +29,5 @@
     'currency': 'EUR',
     'installable': True,
     'application': True,
+    'license': 'LGPL-3'
 }
