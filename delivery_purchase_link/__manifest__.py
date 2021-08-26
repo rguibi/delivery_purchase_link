@@ -25,7 +25,7 @@
     ],
     'demo': [
     ],
-'price':16,
+'price':0,
     'currency': 'EUR',
     'installable': True,
     'application': True,
